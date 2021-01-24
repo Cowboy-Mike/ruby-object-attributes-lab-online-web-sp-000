@@ -1,2 +1,5 @@
 class Dog 
-  def 
+  def name 
+    name = dog_name
+  end
+  
